@@ -1,0 +1,39 @@
+[{
+    "firstName": "Daniel",
+    "lastName": "Michalak",
+    "age" : 22,
+    "email": "dasddas@wp.pl",
+    "borrowedBooks": 1
+  },{
+    "firstName": "Bartek",
+    "lastName": "Michalak",
+    "age" : 22,
+    "email": "bartek@wp.pl",
+    "borrowedBooks": 3
+  },{
+    "firstName": "Dawid",
+    "lastName": "Michalak",
+    "age" : 22,
+    "email": "dasik@wp.pl",
+    "borrowedBooks": 7
+  },
+  {
+    "firstName": "Janusz",
+    "lastName": "Michalak",
+    "age" : 52,
+    "email": "janusz@wp.pl",
+    "borrowedBooks": 1
+  },{
+    "firstName": "Adam",
+    "lastName": "Michalak",
+    "age" : 98,
+    "email": "Adam@wp.pl",
+    "borrowedBooks": 3
+  },{
+    "firstName": "Marcin",
+    "lastName": "Michalak",
+    "age" : 65,
+    "email": "Marcin@wp.pl",
+    "borrowedBooks": 7
+  }
+]

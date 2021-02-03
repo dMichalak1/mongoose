@@ -1,0 +1,50 @@
+[
+  {
+    "title" : "Hobbit",
+    "author" : "J.R.R. Tolkiena",
+    "description" : "Zabili smoka",
+    "publishingHouse": " J.R.R. Tolkiena",
+    "quantity": 42,
+    "borrowed": 32 
+  },
+  {
+    "title" : "Hobbit 2",
+    "author" : "J.R.R. Tolkiena",
+    "description" : "Zabili smoka",
+    "publishingHouse": " J.R.R. Tolkiena",
+    "quantity": 42,
+    "borrowed": 32 
+  },
+  {
+    "title" : "Hobbit 4",
+    "author" : "J.R.R. Tolkiena",
+    "description" : "Zabili smoka",
+    "publishingHouse": " J.R.R. Tolkiena",
+    "quantity": 42,
+    "borrowed": 32 
+  },
+  {
+    "title" : "Hobbit",
+    "author" : "J.R.R. Tolkiena",
+    "description" : "Zabili smoka",
+    "publishingHouse": " J.R.R. Tolkiena",
+    "quantity": 42,
+    "borrowed": 32 
+  },
+  {
+    "title" : "Hobbit 2",
+    "author" : "J.R.R. Tolkiena",
+    "description" : "Zabili smoka",
+    "publishingHouse": " J.R.R. Tolkiena",
+    "quantity": 42,
+    "borrowed": 32 
+  },
+  {
+    "title" : "Hobbit 4",
+    "author" : "J.R.R. Tolkiena",
+    "description" : "Zabili smoka",
+    "publishingHouse": " J.R.R. Tolkiena",
+    "quantity": 42,
+    "borrowed": 32 
+  }
+]

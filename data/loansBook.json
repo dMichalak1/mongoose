@@ -1,0 +1,36 @@
+[
+    {
+        "id_loan": 23112,
+        "user":{
+            "firstname":"Daniel",
+            "lastname":"Michalak"
+                },
+        "book":{
+            "title":"Hobbit",
+            "author":"J.R.R. Tolkiena"
+          }
+    },
+    {
+        "id_loan": 232113212,
+        "user":{
+            "firstname":"Bartek",
+            "lastname":"Michalak"
+                },
+        "book":{
+            "title":"Hobbit 2",
+            "author":"J.R.R. Tolkiena"       
+          }
+    },
+    {
+        "id_loan": 232132,
+        "user":{
+            "firstname":"Igor",
+            "lastname":"Nowak"
+                },
+        "book":{
+            "title":"Hobbit 2",
+            "author":"J.R.R. Tolkiena"       
+          }
+    }
+
+]
